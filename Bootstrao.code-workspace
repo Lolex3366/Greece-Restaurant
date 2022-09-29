@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Users/lukas/OneDrive/Desktop/Icon"
+		},
+		{
+			"path": "../../Users/lukas/OneDrive/Desktop/localbilder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrao"
+	}
+}
